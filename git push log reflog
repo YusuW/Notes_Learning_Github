@@ -1,0 +1,8 @@
+Push your changes (i.e. send them from your computer to your GitHub account). To do this, from your ma2823_2017 repository, do:
+git add <name of the file you edited>
+git commit -m "<Short message explaining your modifications>"
+git push
+If “git push” gives you an error message, try “git push origin master”.
+
+git log 回看历史上传的版本，按q键结束
+git reset --hard <commit number> 版本回退
